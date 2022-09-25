@@ -1,0 +1,28 @@
+.carouselImg {
+    position: center;
+    overflow:hidden;
+    width:1200px;
+    height:600px;
+}
+
+.nav-tabs  {
+    color: #000000;
+}
+.nav-link{
+    color: #5c636a;
+}
+
+.nav-link:hover{
+    color: #575757;
+}
+
+.page-link {
+    margin-left: 15px;
+    margin-top: 10px;
+    color: #5c636a;
+}
+
+
+.page-link:hover {
+    color: #000000;
+}
